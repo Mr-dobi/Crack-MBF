@@ -1,2 +1,16 @@
 # Crack-MBF
-Hallo gan!! Okh sesuai requests dari tmn grub nih gw buat sc HACK FB ^_^ Sc nya simpel kok?
+$ pkg update && pkg upgrade
+
+$ pkg install python2
+
+$ pkg install git
+
+$ pip2 install mechanize
+
+$ pip2 install requests
+
+$ git clone https://github.com/Mr-dobi/Crack-MBF
+
+$ cd Crack-MBF
+
+$ python2 Crack-New.py
