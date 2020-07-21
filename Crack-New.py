@@ -1,5 +1,5 @@
-# hallo yet!!
-# mau recode ya yet ^_^
+# hallo nyet!!
+# mau recode ya nyet ^_^
 # bocah!!
 # Author by Mr.Reyhan
 
